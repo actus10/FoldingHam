@@ -1,5 +1,5 @@
 # foldingham 
-Concept: This is an extremely prorocial approach that appears does not violate FCC rules. . There are more advanced methods that will be explored.
+Concept: This is an extremely parochial approach that appears does not violate FCC rules. . There are more advanced methods that will be explored.
 
 Inspired by thread: https://twitter.com/OH8STN/status/1620426664751800330
 
